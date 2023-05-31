@@ -1,0 +1,2 @@
+# localdatabase
+"Local Database Addon"
